@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name Yassine and I like to write Code.</h2>
+<h2 align="left">Hi 👋! My name is Yassine and I like to write Code.</h2>
 
 ###
 
@@ -31,6 +31,8 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="30" />        
   <img width="12" />
   <img src="https://cdn.simpleicons.org/latex/008080" height="30" alt="latex logo"  />
   <img width="12" />
